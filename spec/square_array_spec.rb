@@ -20,3 +20,4 @@ describe '#square_array' do
   end
 
 end
+
